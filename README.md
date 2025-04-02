@@ -2,7 +2,7 @@
 <body>
 
 <h1>Blog do Matheus</h1>
-<img src="https://img.freepik.com/vetores-gratis/blogar-divertido-criacao-de-conteudo-streaming-online-videoblog-jovem-fazendo-selfie-para-rede-social-compartilhando-feedback-estrategia-de-autopromocao-ilustracao-vetorial-de-metafora-de-conceito_335657-855.jpg">
+<img src=>
 <h1>Introdução</h1>
 <p> Olá, meu nome é matheus, fiz este blog para falar sobre a minha pessoa para que você, leitor deste blog, conheça mais sobre mim. </p>
 <br>
